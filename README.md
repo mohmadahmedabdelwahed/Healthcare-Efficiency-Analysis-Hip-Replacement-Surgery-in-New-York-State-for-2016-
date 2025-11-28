@@ -1,0 +1,2 @@
+# Healthcare-Efficiency-Analysis-Hip-Replacement-Surgery-in-New-York-State-for-2016-
+This project analyzes New York State hospital discharge data (2016) for elective hip replacement surgeries to uncover opportunities for improving operational efficiency. Using Power Query for data cleaning and Power BI for modeling and visualization, the analysis focuses on key metrics such as Length of Stay (LOS) and Cost per Discharge.
