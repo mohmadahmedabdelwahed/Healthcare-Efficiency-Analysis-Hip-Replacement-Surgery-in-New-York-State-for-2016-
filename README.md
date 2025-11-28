@@ -21,9 +21,8 @@ Length of Stay (LOS) is a key efficiency metric—shorter LOS reduces cost and i
 
 ### Efficiency Findings:
 1. Females had higher average LOS (2.7 days) vs. males (2.5 days).
-2. Patients aged 50+ had a higher average LOS (2.7 vs. 2.6) for overall average.
-3. NYC hospitals showed the highest average LOS (2.8) and average cost levels (26k).
-4. Syosset hospital showed the highest average LOS among the top 15 hospitals by total discharges with an average LOS of 3.2 days and a total discharge of 441.
+2. NYC hospitals showed the highest average LOS (2.8) and average cost levels (26k).
+3. Syosset hospital showed the highest average LOS among the top 15 hospitals by total discharges with an average LOS of 3.2 days and a total discharge of 441.
 
 ### Cost & LOS Outliers: 
 5 hospitals in NYC exceeded the 90th percentile in cost per discharge. 
