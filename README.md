@@ -32,6 +32,9 @@ Length of Stay (LOS) is a key efficiency metric—shorter LOS reduces cost and i
 
 3. Syosset hospital showed the highest average LOS among the top 15 hospitals by total discharges with an average LOS of 3.2 days and a total discharge of 441.
 
+![Image Alt](https://github.com/mohmadahmedabdelwahed/Healthcare-Efficiency-Analysis-Hip-Replacement-Surgery-in-New-York-State-for-2016-/blob/70d453586af1e61bcef865d35120fff839a817d2/Screenshots/4.%20LOS%20%26%20total%20discharge%20by%20hospital%20name.png)
+
+
 ### Cost & LOS Outliers: 
 5 hospitals in NYC exceeded the 90th percentile in cost per discharge. 
 
