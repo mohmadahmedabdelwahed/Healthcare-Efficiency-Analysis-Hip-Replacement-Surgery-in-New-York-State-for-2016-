@@ -38,6 +38,8 @@ Length of Stay (LOS) is a key efficiency metric—shorter LOS reduces cost and i
 ### Cost & LOS Outliers: 
 5 hospitals in NYC exceeded the 90th percentile in cost per discharge. 
 
+![Image Alt](https://github.com/mohmadahmedabdelwahed/Healthcare-Efficiency-Analysis-Hip-Replacement-Surgery-in-New-York-State-for-2016-/blob/70d453586af1e61bcef865d35120fff839a817d2/Screenshots/6.%20los%20%26%20cost%20per%20dischrage.png)
+
 ### Root Causes Identified: 
 1. When the severity of illness is extreme, it significantly increases LOS and cost (even though it represents only 2.38% of cases).
 2. When the risk of mortality is extreme, it increases LOS and cost.
