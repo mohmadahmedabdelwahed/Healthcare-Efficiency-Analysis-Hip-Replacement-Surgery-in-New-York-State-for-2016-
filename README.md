@@ -26,7 +26,7 @@ Length of Stay (LOS) is a key efficiency metric—shorter LOS reduces cost and i
 
 2. NYC hospitals showed the highest average LOS (2.8) and average cost levels (26k).
 
-![Image Alt](https://github.com/mohmadahmedabdelwahed/Healthcare-Efficiency-Analysis-Hip-Replacement-Surgery-in-New-York-State-for2016-/blob/70d453586af1e61bcef865d35120fff839a817d2/Screenshots/2.%20Average%20Cost%20per%20discharge%20by%20hospital%20name.png)
+![Image Alt](https://github.com/mohmadahmedabdelwahed/Healthcare-Efficiency-Analysis-Hip-Replacement-Surgery-in-New-York-State-for-2016-/blob/70d453586af1e61bcef865d35120fff839a817d2/Screenshots/2.%20Average%20Cost%20per%20discharge%20by%20hospital%20name.png)
 
 ![Image Alt](https://github.com/mohmadahmedabdelwahed/Healthcare-Efficiency-Analysis-Hip-Replacement-Surgery-in-New-York-State-for-2016-/blob/70d453586af1e61bcef865d35120fff839a817d2/Screenshots/3.%20Average%20LOS%20by%20service%20area.png)
 
